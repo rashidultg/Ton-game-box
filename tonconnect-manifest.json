@@ -1,5 +1,7 @@
-{"url": "https://ton-gamebox.vercel.app",
+{
+  "url": "https://ton-gamebox.vercel.app",
   "name": "TON GameBox",
   "iconUrl": "https://raw.githubusercontent.com/tonkeeper/icon/master/ton.png",
   "termsOfUseUrl": "https://ton.org",
-  "privacyPolicyUrl": "https://ton.org"}
+  "privacyPolicyUrl": "https://ton.org"
+}
